@@ -1,0 +1,13 @@
+{
+  "name": "shoponline",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "3.3.7",
+    "font-awesome": "^4.7.0",
+    "jquery": "2.2.4",
+    "jquery-zoom": "1.7.20",
+    "nouislider": "10.0.0",
+    "slick": "^1.12.2",
+    "slick-carousel": "^1.8.1"
+  }
+}
